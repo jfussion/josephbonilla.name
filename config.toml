@@ -1,4 +1,4 @@
-baseURL = "https://josephbonilla.name/"
+baseURL = "https://test.josephbonilla.name/"
 languageCode = "en-us"
 title = "Joseph Bonilla Blog"
 theme = "bs4"
